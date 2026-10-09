@@ -6,3 +6,5 @@ push, job, baseline agent finding, PoC validation, triage and dashboard.
 The description of the planted bugs lives in a file excluded from snapshots.
 
 Empty until M3.
+
+<!-- demo run 2026-10-09T19:49:25.368Z -->
