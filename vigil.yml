@@ -2,7 +2,7 @@ version: 1
 program: demo-protocol
 scope:
   repos:
-    - name: vigil-dev/demo-protocol
+    - name: Remato/vigil-demo-protocol
       branches: [main]
 bounties:
   table:
