@@ -1,0 +1,14 @@
+version: 1
+program: demo-protocol
+scope:
+  repos:
+    - name: vigil-dev/demo-protocol
+      branches: [main]
+bounties:
+  table:
+    critical: { min: 50000, max: 250000 }
+    high: { min: 10000, max: 50000 }
+    medium: { min: 2000, max: 10000 }
+    low: { min: 250, max: 2000 }
+knowledge_base:
+  known_issues: KNOWN_ISSUES.md
